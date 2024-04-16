@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  text-align: center;
+  margin-top: 40px;
+  background-color: #000;
+  color: #FF00FF;
+}
+header{
+  display: flex;
+  justify-content: center;
+}
+.Logo,.Top_menu{
+  margin-right: 55px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.Top_menu li{
+  margin-right: 60px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.Top_menu a{
+  font-family: arial;
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+  vertical-align: middle;
+}
+.Top_menu a:hover{
+  color: #FF0099;
+}
+.Logo h1{
+  vertical-align: middle;
+  font-family: cursive;
+  font-size: 30px;
+  color: #FF00FF;
+}
+p{
+  text-align: center;
+  padding-top: 40px;
+  font-size: 55px;
+}
+.form-button{
+  text-align: center;
+  font-size: 24px;
+  color: #FF00FF;
+}
+button{
+  color: #000;
+  background-color: #FF0099;
+  font-size: 40px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+p2{
+  padding-right: 50px;
+  font-size: 30px;
+}
